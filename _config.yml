@@ -62,14 +62,8 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
-  - title: oukohou's github
-    url: https://github.com/oukohou
-#  - title:
-#    url: http://jekyllcn.com/
-  - title: Jekyll blog system
-    url: http://jekyllcn.com/
+  # - title: ccslience's blog
+  #   url: http://ccslience.oukohou.wang/
 
 
 # Google Analytics
@@ -80,7 +74,7 @@ ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
+    url: https://github.com/changshanyuxi
 
 
 #valine:
