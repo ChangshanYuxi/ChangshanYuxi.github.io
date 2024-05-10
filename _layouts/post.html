@@ -87,21 +87,25 @@ layout: base
     <!--giscus评论插件-->
 <!--https://github.com/settings/installations/47603379-->
 
-<div id="gitalk-container"></div>
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script src="/js/md5.min.js"></script>
-<script>
-   var gitalk = new Gitalk({
-	  clientID: 'fb75f112f6fc0fd42f34',
-	  clientSecret: '2dc875d9d4239a53ed1c454fb3986bb1547bbb95',
-	  repo: 'changshanyuxi.github.io',
-	  owner: 'ChangshanYuxi',
-	  admin: ['ChangshanYuxi'],
-	  id:  md5(location.href),      // Ensure uniqueness and length less than 50
-	  distractionFreeMode: true  // Facebook-like distraction free mode
-	}
-	gitalk.render('gitalk-container')
-</script>
-
+<div class="container">
+    <div class="row">
+      <div class="col col-12">
+          <script src="https://giscus.app/client.js"
+          data-repo="ChangshanYuxi/ChangshanYuxi.github.io"
+          data-repo-id="R_kgDOLyZHUA"
+          data-category="General"
+          data-category-id="DIC_kwDOLyZHUM4CfQ9f"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="preferred_color_scheme"
+          data-lang="en"
+          crossorigin="anonymous"
+          async>
+          </script>
+      </div>
+    </div>
+  </div>
 </article>
