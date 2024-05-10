@@ -96,7 +96,7 @@ comments:
 #https://github.com/mmistakes/minimal-mistakes/pull/3022#issuecomment-869022785:
 # JEKYLL_ENV=production jekyll serve
   giscus:
-    repo: oukohou/image_gallery
+    repo: changshanyuxi/changshanyuxi.github.io
     repo_id:  MDEwOlJlcG9zaXRvcnkxODg5ODYzOTY=
     category: General
     category_id: DIC_kwDOC0O0HM4CdbSz
