@@ -96,10 +96,10 @@ comments:
 #https://github.com/mmistakes/minimal-mistakes/pull/3022#issuecomment-869022785:
 # JEKYLL_ENV=production jekyll serve
   giscus:
-    repo: changshanyuxi/changshanyuxi.github.io
-    repo_id:  MDEwOlJlcG9zaXRvcnkxODg5ODYzOTY=
+    repo: ChangshanYuxi/ChangshanYuxi.github.io
+    repo_id:  R_kgDOLyZHUA
     category: General
-    category_id: DIC_kwDOC0O0HM4CdbSz
+    category_id: DIC_kwDOLyZHUM4CfQ9f
     mapping: pathname # optional, default to 'pathname'
     input_position: top# optional, default to 'bottom'
     lang: zh-CN# optional, default to the value of `site.lang`
