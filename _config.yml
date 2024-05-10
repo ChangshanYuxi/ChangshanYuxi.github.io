@@ -96,6 +96,7 @@ comments:
 #https://github.com/mmistakes/minimal-mistakes/pull/3022#issuecomment-869022785:
 # JEKYLL_ENV=production jekyll serve
   giscus:
+    enable: true
     repo: ChangshanYuxi/ChangshanYuxi.github.io
     repo_id:  R_kgDOLyZHUA
     category: General
