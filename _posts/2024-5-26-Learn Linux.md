@@ -29,7 +29,7 @@ categories: [Linux]
     MODULE_AUTHOR("topeet");
     ```
 
-    ![alt text](image-1.png)
+    ![alt text](../assets/imgs/image-1.png)
 
 - WARN_ON
     ```C
