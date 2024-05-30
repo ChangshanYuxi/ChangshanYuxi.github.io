@@ -1,3 +1,10 @@
+<!--
+ * @description: 
+ * @param: 
+ * @Date: 2024-05-30 10:33:03
+ * @LastEditTime: 2024-05-30 10:33:47
+ * @LastEditors: Yuxi <Yuxi.Wang@monolithicpower.com>
+-->
 ---
 layout: post
 title:  "Learn linux driver"
@@ -29,7 +36,7 @@ categories: [Linux]
     MODULE_AUTHOR("topeet");
     ```
 
-    ![alt text](../assets/imgs/image-1.png)
+    ![alt text](/assets/imgs/image-1.png)
 
 - WARN_ON
     ```C
